@@ -1,0 +1,12 @@
+#area {
+  width: 500px;
+  margin: auto;
+  display: flex;
+  gap: 30.2px;
+  flex-wrap: wrap;
+}
+button {
+  display: block;
+  padding: 10px;
+  margin: 50px auto;
+}
